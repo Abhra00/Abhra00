@@ -1,4 +1,4 @@
-![logo](https://github.com/Abhra00/Abhra00/commit/1a9b2a88abcd2b5271647326a8e6dc4c0288ceea#diff-82b938b9c169756baa99a1e4dc81b3d074680a1d786afc536624b08534749166)
+<img align="left" alt"logo" width"800" src="https://github.com/Abhra00/Abhra00/commit/61bdf2c62066ad1f30b40ddf65007833a4a75dfe">
 ### Hi there I am Abhra Mondal👋
 <h1 align="center">Hi 👋, I'm Abhra Mondal</h1>
 <h3 align="center">A passionate software engineer from India</h3>
