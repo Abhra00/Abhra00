@@ -4,10 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhra00&hide=php)](https://github.com/Abhra00)
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
